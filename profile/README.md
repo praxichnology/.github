@@ -39,4 +39,4 @@ Zenodo community of archived praxichnology artifacts: https://zenodo.org/communi
 
 ## Contact
 
-Christian Sebastian Loh · csloh@siu.edu
+Christian S. Loh · csloh@siu.edu
