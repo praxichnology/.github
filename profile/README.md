@@ -35,8 +35,7 @@ Zenodo community of archived praxichnology artifacts: https://zenodo.org/communi
 ## Repositories
 
 - [`preprint`](https://github.com/praxichnology/preprint) — preprint source (Markdown + rendered PDF + audio pronunciation)
-- [`docs`](https://github.com/praxichnology/docs) — field-level documentation and FAQ *(work in progress)*
 
 ## Contact
 
-Christian S. Loh · csloh@siu.edu
+Christian S. Loh, Ph.D. · csloh@siu.edu
