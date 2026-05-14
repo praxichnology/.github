@@ -15,15 +15,15 @@
 
 Praxichnology is the study of *traces* (Greek *ichnos* — literally, footprint) produced through *situated activity* (Greek *praxis*) in *designed environments* — instrumented digital habitats including serious games, learning systems, and AI-agent workflows.
 
-This organization is the **field-commons home** for preprints, datasets, methodological artifacts, and conceptual work in praxichnology and its sub-areas.
+This GitHub organization is the **field-commons home** for preprints, datasets, methodological artifacts, and conceptual work in praxichnology and its sub-areas.
 
 Zenodo community of archived praxichnology artifacts: https://zenodo.org/communities/praxichnology/
 
 ## Canonical citation
 
-> Loh, C. S. (2026). *Praxichnology: Naming the field that reads footprints in designed environments — from serious games to AI.* https://doi.org/10.5281/zenodo.20148907
+Loh, C. S. (2026). *Praxichnology: Naming the field that reads footprints in designed environments — from serious games to AI.* https://doi.org/10.5281/zenodo.20148907
 
-Also archived on [EdArXiv](https://doi.org/10.35542/osf.io/x4n7u_v1) for discoverability within education research; the two records are linked and resolve to identical content.
+> Also archived on [EdArXiv](https://doi.org/10.35542/osf.io/x4n7u_v1) for discoverability within education research; the two records are linked and resolve to identical content.
 
 ## Repositories
 
