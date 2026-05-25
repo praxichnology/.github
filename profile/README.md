@@ -33,5 +33,5 @@ Loh, C. S. (2026). *Praxichnology: Naming the field that reads footprints in des
 
 ## Contact
 
-Christian S. Loh, Ph.D. · csloh@siu.edu
+Christian S. Loh, Ph.D. · [ORCID 0000-0002-6318-3890](https://orcid.org/0000-0002-6318-3890)
 Professor · School of Education · Southern Illinois University Carbondale
